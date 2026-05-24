@@ -5,4 +5,6 @@ body {
 .header {
 	height: 100px;
 	background-color: #000;
+	color: #cb9e9e;
+	margin: 10px;
 }
